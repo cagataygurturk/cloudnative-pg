@@ -9,6 +9,7 @@ on:
     branches:
       - main
       - release-*
+      - ipv6-support
   pull_request:
   workflow_dispatch:
   schedule:
